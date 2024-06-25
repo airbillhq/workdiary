@@ -6,7 +6,8 @@ Workdiary is Redefining Timekeeping.
 Your entire day captured, task by task automatically in your personal workdiary for busy lawyers, developers, and consultants
 
 # How to download?
-[workdiary/releases](https://github.com/airbillhq/workdiary/releases)
+Download your release and install:
+[workdiary/releases/latest](https://github.com/airbillhq/workdiary/releases/latest)
 
 # Website
 [https://workdiary.ai/](https://workdiary.ai/)
